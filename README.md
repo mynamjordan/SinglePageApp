@@ -28,3 +28,6 @@ Most learning done was through googling and W3 Schools
 13/4/2022 - Had serious issue where it was not a single page application but still try to make it work 5 hours, Had to restart but built the application stronger by lerning about DIV and css styles
 
 14/4/2022 - finished edited and commented, 6 hours 
+
+Challenges 
+* Many issues with the structure of the assignment, coming with many ideas of how to start the assignment
