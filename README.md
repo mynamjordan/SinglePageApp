@@ -19,13 +19,14 @@ Most learning done was through googling and W3 Schools and youtube videos here a
 10/4/2022 - Started to try code for 1 hours, the first page as i didnt know how to base the assignemnt i just did what i could
 with the reseach that i had.
 
+
 11/4/2022 - I created many HTMl pages that were able to corrolate to a link on the website however, this is not a single
 page application it was a reloading page that loaded other HTML in the folder. I did spend around 3 hours doing the pages
 And will think about what to do next tommorow.
 
 12/4/2022 - Had serious issue where it was not a single page application but still try to make it work 7 hours. 
 Praticially rebuilt my HTML and CSS. Allowed for better healthy practices towards css and not just styling it in HTML as seen in my other 'pages' folder
-Basically Created a template, and did pages from 1-4, and page 10. I had in the first 3 hours just did the tables
+Basically Created a template through CSS, and did pages from 1-4, and page 10. I had in the first 3 hours just did the tables
 as images cause I was scared to learn the table. But I tried to learn and it was easier than expected.
 I Spend most of my time learning on formatting the pages and the listing on the sides. The other time
 was spend doing one as I was learning the logic of div, one i learnt that aspect and the
@@ -34,8 +35,10 @@ W3 Schools was a huge tool as i didnt want to do anything fancy.
 I also tried to Comment best as i can where i have used other sources to help me solidate my own code
 
 13/4/2022 -Since the borders (pages) and List was done on the side it was easy to fill as i had done the past work in the old HTML. 
-I have made edits based of the old one but it worked out pretty well. Finished edited and commented, 8 hours of work. A
-Through out the 8 hours i did pages 5-9, making sure that the formatting was done well as well
+I have made edits based of the old one but it worked out pretty well. Finished edited and commented, 8 hours of work. 
+The hardest thing that was learnt today was the themes, alot of youtube was watched along with trying to google as well.
+The issue i had with themes was that cause i made a sperate page, so i had to just do the 'main page' and worked with 
+the text. A Through out the 8 hours i did pages 5-9, making sure that the formatting was done well
 also checked in with the validator for css and html there were some issues (Screen shots taken). CSS was validated. 
 HTML was not, but the issues on it were very easy to fix, as seen with the images provided.
 I also tried to Comment best as i can where i have used other sources to help me solidate my own code
@@ -57,6 +60,7 @@ Challenges
 * Many issues with the structure of the assignment, coming with many ideas of how to start the assignment
 * I started the assignment on the multiple HTML pages wich is not apart of the SPA Assignment which was intreseting
 * The only difficulty i had was trying to learn things that i may have forgotten in class and or in general 
+* Learning how themes work, learning the logic behind it.
 
 Other than the challenges that were said, I tried to be basic so that the code i wrote is not too messy.
 That also comes with learning best practices when it comes to comments and how to do the code. 
